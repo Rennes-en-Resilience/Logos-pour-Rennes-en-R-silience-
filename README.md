@@ -2,6 +2,15 @@
 
 Ce dépôt git contient des versions PNG, JPEG et SVG du logo du projet « Rennes en Résilience », créé le mardi 07 avril 2020.
 
+## Création du logo ?
+1. J'ai utilisé le logiciel GIMP,
+2. J'ai cherché une image d'une « hermine » bretonne, libre de droit, sur Internet, ainsi qu'une image en HD du logo de « l'Alliance Rebelle », de Star Wars (© pas libre de droit),
+3. J'ai mélangé comme je voulais les deux images.
+
+![](Rennes_en_Resilience_logo_1024.png)
+
+<img src="Rennes_en_Resilience_logo_1024.png"/>
+
 ----
 
 ## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Rennes-en-Resilience/a-propos.svg)](https://github.com/Rennes-en-Resilience/a-propos/blob/master/LICENSE)
